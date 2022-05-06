@@ -29,8 +29,8 @@ Screenshot of the desktop preview of the website.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/DeeptanshV/DeeptanshV.github.io/blob/main/index.html)
+- Live Site URL: [Add live site URL here](https://deeptanshv.github.io/)
 
 ## My process
 I started by making a parent-div and then divided into two sub divs.The sub-div on the left hand side is for the information and the sub-div on the right is totally for the picture.
@@ -57,7 +57,7 @@ I look forward to make my CSS knowledge stronger and improving this website by m
 
 - Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@DeeptanshV1707](https://www.frontendmentor.io/profile/DeeptanshV1707)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- LinkedIn - [Deeptansh Verma](https://www.linkedin.com/in/deeptansh-verma-48241a1b8/)
 
 
 
