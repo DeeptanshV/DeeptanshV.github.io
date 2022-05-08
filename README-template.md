@@ -55,7 +55,6 @@ I look forward to make my CSS knowledge stronger and improving this website by m
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@DeeptanshV1707](https://www.frontendmentor.io/profile/DeeptanshV1707)
 - LinkedIn - [Deeptansh Verma](https://www.linkedin.com/in/deeptansh-verma-48241a1b8/)
 
