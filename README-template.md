@@ -29,8 +29,8 @@ Screenshot of the desktop preview of the website.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/DeeptanshV/DeeptanshV.github.io/blob/main/index.html)
-- Live Site URL: [Add live site URL here](https://deeptanshv.github.io/)
+- Solution URL: [Click Here](https://github.com/DeeptanshV/DeeptanshV.github.io/blob/main/index.html)
+- Live Site URL: [Click Here](https://deeptanshv.github.io/)
 
 ## My process
 I started by making a parent-div and then divided into two sub divs.The sub-div on the left hand side is for the information and the sub-div on the right is totally for the picture.
